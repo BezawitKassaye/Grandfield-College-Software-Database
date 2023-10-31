@@ -1,0 +1,28 @@
+
+1, 1
+2, 4
+3, 5
+4, 1
+5, 3
+6, 2
+8, 3
+7, 2
+
+1, 1
+2, 3
+3, 2
+4, 4
+5, 3
+6, 2
+
+1, '05/12/2022', 'Spotify', 'To listen to music', None, None, None
+2, '05/12/2022', 'Spotify', 'To listen to music', None, None, None
+3, '05/12/2022', 'VLC Media Player', 'To play videos', None, None, None
+4, '05/22/2022', 'Google Chrome', 'To browse the internet safelty', None, None, None
+5, '05/12/2022', 'Discord', 'To chat with some colleagues', None, None, None
+
+1, 2
+1, 3
+1, 4
+4, 5
+
